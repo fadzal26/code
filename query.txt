@@ -1,0 +1,1 @@
+select nama.name, t_work.work, kategori.salary from nama left join kategori on nama.id_salary = kategori.id left join t_work on nama.id_salary = t_work.id_salary
