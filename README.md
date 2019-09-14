@@ -1,3 +1,3 @@
 # Screenshot Soal Nomor 6
 
-![ScreenShot](https://raw.github.com/fadzal26/code/master/screenshot no.6.JPG)
+![ScreenShot](https://github.com/fadzal26/code/blob/master/screenshot%20no.6.JPG)
